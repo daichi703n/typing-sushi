@@ -1,0 +1,8 @@
+{
+  "name": "selenium-sushi",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "selenium-webdriver": "3.6.0"
+  }
+}
