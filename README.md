@@ -9,6 +9,7 @@ https://qiita.com/tetsuya-ogawa/items/09f9578a30bffc47603b
 ## Requirement
 - Node.js
 - Google Chrome
+- Chrome WebDriver(https://chromedriver.storage.googleapis.com/index.html)(Also set PATH)
 
 ## How to Use
 1. `npm install`
